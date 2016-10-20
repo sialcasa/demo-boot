@@ -14,7 +14,7 @@ On startup all services register to Eureka. Zuul acts as the API-Gateway and pro
 
 **There are currently 2 important services missing:**
 
-* Auth Service (e.g. https://github.com/spring-cloud-samples/authserver/tree/master/src/main/java/demo using https://cloud.spring.io/spring-cloud-security/)
+* Auth Service (e.g. https://github.com/rohitghatol/spring-boot-microservices)
 * Message Broker ([https://cloud.spring.io/spring-cloud-stream/](https://cloud.spring.io/spring-cloud-stream/))
 
 ##How to use & What happens
